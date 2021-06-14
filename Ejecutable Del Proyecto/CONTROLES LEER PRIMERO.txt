@@ -1,0 +1,24 @@
+King Of The Kingdoms
+
+El juego consta de 3 rondas cada ronda creara puntos para un contador que mostrara el jugador ganador al finalizar todas las rondas:
+	Cada jugador tendrá un tipo de rastro al tocarlo sea de si mismo o de otro jugador este morirá,
+	Después de un periodo de tiempo aparecerá un tipo de potenciador en el mapa 
+	Cada jugador tendrá un potenciador de velocidad recargable (se indicara con la llama debajo de la corona que esta disponible ) 
+
+Controles :
+
+Jugador 1                          Jugador 3
+
+Arriba : W                         Arriba : U
+Abajo : S			   Abajo : J
+Derecha : D			   Derecha : K
+Izquierda: A			   Izquierda: H
+Turbo : E		 	   Turbo : I
+
+Jugador 2			   Jugador 4
+
+Arriba : 8			   Arriba: Flecha arriba
+Abajo : 5			   Abajo : Flecha abajo	
+Derecha : 6			   Derecha : Flecha Derecha
+Izquierda: 4			   Izquierda : Flecha Izquierda
+Turbo : 9			   Turbo : 0
